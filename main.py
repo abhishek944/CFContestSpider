@@ -10,8 +10,8 @@ import pdfkit
 class CFContestSpider(scrapy.Spider):
 
 	name = "ContestSpider"		# spider name
-	start_urls = []				# required contest url
-	dir_name = ""				# required directory name
+	start_urls = []				    # required contest url
+	dir_name = ""				      # required directory name
 	tmp = ""
 	alpha = ""
 
