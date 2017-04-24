@@ -2,7 +2,7 @@
 
 CFContestSpider is a scraper that helps you during contests in codeforces .
 
-Uses :
+### Uses :
 
 1) This scraper downloads all the inputs and outputs for the contest .
 
@@ -13,7 +13,7 @@ Uses :
 4) Also downloads complete Problemset for the contest in and stores it in pdf format .
 
 
-Requirements :
+### Requirements :
 
 1) python3
 
@@ -26,13 +26,13 @@ Requirements :
 5) python - pdfkit
 
 
-Steps :
+### Steps :
 
 1) Copy 'main.py' file to your codeforces folder
 
 2) Run the spider by command ->  scrapy runspider main.py
 
-3) Then this prompts for contest link -> Eg: http://codeforces.com/contest/772
+3) Then this prompts for contest link ->  (Copy contest link and paste) Eg: http://codeforces.com/contest/772
            
 4) Make sure that given link is valid .
 
