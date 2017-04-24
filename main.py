@@ -1,4 +1,4 @@
-__author__ = "Tatikella Abhishek" 
+__author__ = "Tatikella Abhishek"
 # handle -  abhishek944
 
 import scrapy
