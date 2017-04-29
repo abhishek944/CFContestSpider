@@ -10,7 +10,7 @@ CFContestSpider is a scraper that helps you during contests in codeforces .
 
 3) Creates program file , Actual output file and respective input and Expected output files for each problem .
 
-4) Also downloads complete Problemset for the contest in and stores it in pdf format .
+4) Also downloads complete Problemset for the contest and stores it in pdf format .
 
 
 ### Requirements :
