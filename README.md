@@ -40,4 +40,6 @@ CFContestSpider is a scraper that helps you during contests in codeforces .
 
 6) Then folder with given name is created
 
-7) Thats it ! You can run this and read your first problem . Contest gets downloaded in mean time .
+7) Thats it ! You can run this and read your first problem . Contest gets downloaded in that time :)
+
+Happy Coding :)
